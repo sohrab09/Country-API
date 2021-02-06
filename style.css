@@ -16,3 +16,7 @@
     font-size: 45px;
     color: rgb(57, 168, 144);
 }
+
+#countryDetail img{
+    width: 200px;
+}
